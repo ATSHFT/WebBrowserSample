@@ -1,5 +1,5 @@
-# Koyfin
-Opens up Koyfin inside a window 
+# Web Browser
+Opens up a Web Browser inside a window 
 
 Installation steps:
 1. Download from github
@@ -12,7 +12,5 @@ Installation steps:
 8. Drag the Unzipped Koyfin Desktop folder into the repos folder
 9. Double Click the Koyfin Dektop folder inside the repo folder
 10. Navigate to the Debug folder
-11. Double Click on "WebBrowser.exe" **Koyfin should come up**
+11. Double Click on "WebBrowser.exe" 
 12. Pin the window to your taskbar
-
-Please note Visual Studio may be required in the event of compiling, building, or running/testing.
