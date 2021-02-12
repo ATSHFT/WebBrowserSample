@@ -133,7 +133,7 @@ int CALLBACK WinMain(
 			webviewController->put_Bounds(bounds);
 
 			// Schedule an async task to navigate to Bing
-			webviewWindow->Navigate(L"https://app.koyfin.com/home");
+			webviewWindow->Navigate(L"https://www.google.com/");
 
 			// Step 4 - Navigation events
 
