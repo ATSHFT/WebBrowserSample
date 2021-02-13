@@ -17,7 +17,7 @@ using namespace Microsoft::WRL;
 static TCHAR szWindowClass[] = _T("DesktopApp");
 
 // The string that appears in the application's title bar.
-static TCHAR szTitle[] = _T("Koyfin");
+static TCHAR szTitle[] = _T("WindowApp");
 
 HINSTANCE hInst;
 
